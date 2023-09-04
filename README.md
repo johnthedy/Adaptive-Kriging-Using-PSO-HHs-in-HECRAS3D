@@ -19,3 +19,5 @@ Adaptive Kriging Adopting PSO with Hollow-Hypersphere space in structural
 reliability assessmen 
 Author John Thedy, Kuo-Wei Liao
 https://doi.org/10.1016/j.probengmech.2023.103513
+
+MAIN.m is the main file, detail description is provided inside MAIN.m
