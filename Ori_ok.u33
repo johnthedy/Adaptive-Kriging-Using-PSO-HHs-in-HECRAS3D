@@ -1,0 +1,332 @@
+Flow Title=Baoli flooding areaQ25 48hr
+Program Version=6.31
+Use Restart= 0 
+Boundary Location=                ,                ,        ,        ,                ,Baoli Basin     ,                ,Inflow1                         ,                                
+Interval=1HOUR
+Flow Hydrograph= 33 
+   2.754   2.754   3.013   3.601   4.412   5.151   5.766   6.379   7.076   7.987
+   8.985  10.244  11.772  13.544   15.17  16.208  16.375  15.491  13.989  12.266
+  10.651   9.225   8.009    7.15   6.531   5.974   5.308   4.503   3.754   3.227
+   2.902    2.77   2.754
+Stage Hydrograph TW Check=0
+Flow Hydrograph Slope= 0.07 
+DSS Path=
+Use DSS=False
+Use Fixed Start Time=True
+Fixed Start Date/Time=14MAY2022,2400
+Is Critical Boundary=False
+Critical Boundary Flow=
+Boundary Location=                ,                ,        ,        ,                ,Baoli Basin     ,                ,Inflow2                         ,                                
+Interval=1HOUR
+Flow Hydrograph= 33 
+ 1.92882 1.928822.1101032.5216663.0899243.607658 4.038224.4673134.9558155.593783
+6.2922287.1744318.2446559.48500810.6238111.3508111.4680510.848689.7972938.590247
+7.4595076.4603455.6090025.0073584.5737264.1836583.7170773.1532762.6293052.260249
+2.0323131.939681 1.92882
+Stage Hydrograph TW Check=0
+Flow Hydrograph Slope= 0.175 
+DSS Path=
+Use DSS=False
+Use Fixed Start Time=True
+Fixed Start Date/Time=14MAY2022,2400
+Is Critical Boundary=False
+Critical Boundary Flow=
+Boundary Location=                ,                ,        ,        ,                ,Baoli Basin     ,                ,Inflow3                         ,                                
+Interval=1HOUR
+Flow Hydrograph= 33 
+  1.2261  1.22611.3413371.6029561.9641832.293293 2.566992.8397533.150281 3.55582
+3.9998044.560596 5.240916.0293696.7532787.2154137.2899356.896218 6.227885.460594
+4.7418124.1066713.5654953.1830452.9073972.6594412.3628482.004454 1.671381.436781
+1.2918881.233004  1.2261
+Stage Hydrograph TW Check=0
+Flow Hydrograph Slope= 0.07 
+DSS Path=
+Use DSS=False
+Use Fixed Start Time=True
+Fixed Start Date/Time=14MAY2022,2400
+Is Critical Boundary=False
+Critical Boundary Flow=
+Boundary Location=                ,                ,        ,        ,                ,Baoli Basin     ,                ,Inflow4                         ,                                
+Interval=1HOUR
+Flow Hydrograph= 33 
+  52.704  52.70457.65747 68.903284.4305698.57737110.3422 122.067135.4151152.8472
+171.9319196.0376225.2809259.1729290.2902 310.155313.3584296.4344267.7059 234.724
+203.8271176.5256153.2631136.8234124.9747114.3163101.567286.1616171.8443961.76012
+ 55.531953.00078  52.704
+Stage Hydrograph TW Check=0
+Flow Hydrograph Slope= 0.03 
+DSS Path=
+Use DSS=False
+Use Fixed Start Time=True
+Fixed Start Date/Time=14MAY2022,2400
+Is Critical Boundary=False
+Critical Boundary Flow=
+Boundary Location=                ,                ,        ,        ,                ,Baoli Basin     ,                ,Inflow5                         ,                                
+Interval=1HOUR
+Flow Hydrograph= 33 
+20.3333320.33333 22.244426.5830232.5735238.0313942.5703147.0937552.2434758.96883
+66.3317375.6317886.9139399.98954111.9947119.6586120.8944114.3652103.281690.55711
+78.63701  68.10459.1292652.7868248.21554 44.103539.1848833.2413627.7177423.82721
+21.4243520.4478320.33333
+Stage Hydrograph TW Check=0
+Flow Hydrograph Slope= 0.01 
+DSS Path=
+Use DSS=False
+Use Fixed Start Time=True
+Fixed Start Date/Time=14MAY2022,2400
+Is Critical Boundary=False
+Critical Boundary Flow=
+Boundary Location=                ,                ,        ,        ,                ,Baoli Basin     ,                ,Inflow6                         ,                                
+Interval=1HOUR
+Flow Hydrograph= 33 
+20.3333320.33333 22.244426.5830232.5735238.0313942.5703147.0937552.2434758.96883
+66.3317375.6317886.9139399.98954111.9947119.6586120.8944114.3652103.281690.55711
+78.63701  68.10459.1292652.7868248.21554 44.103539.1848833.2413627.7177423.82721
+21.4243520.4478320.33333
+Stage Hydrograph TW Check=0
+Flow Hydrograph Slope= 0.03 
+DSS Path=
+Use DSS=False
+Use Fixed Start Time=True
+Fixed Start Date/Time=14MAY2022,2400
+Is Critical Boundary=False
+Critical Boundary Flow=
+Boundary Location=                ,                ,        ,        ,                ,Baoli Basin     ,                ,Inflow7                         ,                                
+Interval=1HOUR
+Flow Hydrograph= 33 
+20.3333320.33333 22.244426.5830232.5735238.0313942.5703147.0937552.2434758.96883
+66.3317375.6317886.9139399.98954111.9947119.6586120.8944114.3652103.281690.55711
+78.63701  68.10459.1292652.7868248.21554 44.103539.1848833.2413627.7177423.82721
+21.4243520.4478320.33333
+Stage Hydrograph TW Check=0
+Flow Hydrograph Slope= 0.08 
+DSS Path=
+Use DSS=False
+Use Fixed Start Time=False
+Fixed Start Date/Time=,
+Is Critical Boundary=False
+Critical Boundary Flow=
+Boundary Location=                ,                ,        ,        ,                ,Baoli Basin     ,                ,Inflow8                         ,                                
+Interval=1HOUR
+Flow Hydrograph= 33 
+ 13.0715 13.0715    14.3  17.089   20.94  24.449 27.3665 30.2745  33.585 37.9085
+  42.642 48.6205 55.8735  64.279 71.9965 76.9235  77.718 73.5205 66.3955 58.2155
+ 50.5525  43.781 38.0115 33.9345 30.9955 28.3525 25.1905 21.3695 17.8185 15.3175
+  13.773  13.145 13.0715
+Stage Hydrograph TW Check=0
+Flow Hydrograph Slope= 0.09 
+DSS Path=
+Use DSS=False
+Use Fixed Start Time=False
+Fixed Start Date/Time=,
+Is Critical Boundary=False
+Critical Boundary Flow=
+Boundary Location=                ,                ,        ,        ,                ,Baoli Basin     ,                ,Inflow9                         ,                                
+Interval=1HOUR
+Flow Hydrograph= 33 
+20.3333320.33333 22.244426.5830232.5735238.0313942.5703147.0937552.2434758.96883
+66.3317375.6317886.9139399.98954111.9947119.6586120.8944114.3652103.281690.55711
+78.63701  68.10459.1292652.7868248.21554 44.103539.1848833.2413627.7177423.82721
+21.4243520.4478320.33333
+Stage Hydrograph TW Check=0
+Flow Hydrograph Slope= 0.08 
+DSS Path=
+Use DSS=False
+Use Fixed Start Time=False
+Fixed Start Date/Time=,
+Is Critical Boundary=False
+Critical Boundary Flow=
+Boundary Location=                ,                ,        ,        ,                ,Baoli Basin     ,                ,Infolw8                         ,                                
+Interval=1HOUR
+Flow Hydrograph= 33 
+20.3333320.33333 22.244426.5830232.5735238.0313942.5703147.0937552.2434758.96883
+66.3317375.6317886.9139399.98954111.9947119.6586120.8944114.3652103.281690.55711
+78.63701  68.10459.1292652.7868248.21554 44.103539.1848833.2413627.7177423.82721
+21.4243520.4478320.33333
+Stage Hydrograph TW Check=0
+Flow Hydrograph Slope= 0.08 
+DSS Path=
+Use DSS=False
+Use Fixed Start Time=False
+Fixed Start Date/Time=,
+Is Critical Boundary=False
+Critical Boundary Flow=
+Boundary Location=                ,                ,        ,        ,                ,tesregion       ,                ,in1                             ,                                
+Interval=1HOUR
+Flow Hydrograph= 25 
+       0 166.667 333.333     500 666.667 833.333    10001166.6671333.333    1500
+1666.6671833.333    20001833.3331666.667    15001333.3331166.667    1000 833.333
+ 666.667     500 333.333 166.667       0
+Stage Hydrograph TW Check=0
+Flow Hydrograph Slope= 0.02 
+DSS Path=
+Use DSS=False
+Use Fixed Start Time=False
+Fixed Start Date/Time=,
+Is Critical Boundary=False
+Critical Boundary Flow=
+Boundary Location=                ,                ,        ,        ,                ,tesregion       ,                ,in2                             ,                                
+Interval=1HOUR
+Flow Hydrograph= 25 
+       0 166.667 333.333     500 666.667 833.333    10001166.6671333.333    1500
+1666.6671833.333    20001833.3331666.667    15001333.3331166.667    1000 833.333
+ 666.667     500 333.333 166.667       0
+Stage Hydrograph TW Check=0
+Flow Hydrograph Slope= 0.02 
+DSS Path=
+Use DSS=False
+Use Fixed Start Time=False
+Fixed Start Date/Time=,
+Is Critical Boundary=False
+Critical Boundary Flow=
+Boundary Location=                ,                ,        ,        ,                ,tesregion       ,                ,out1                            ,                                
+Friction Slope=0.01,0
+Boundary Location=                ,                ,        ,        ,                ,Baoli Basin     ,                ,dashibeng                       ,                                
+Interval=1HOUR
+Flow Hydrograph= 49 
+row1dashibeng
+row2dashibeng
+row3dashibeng
+row4dashibeng
+row5dashibeng
+Stage Hydrograph TW Check=0
+Flow Hydrograph Slope= 0.175 
+DSS Path=
+Use DSS=False
+Use Fixed Start Time=False
+Fixed Start Date/Time=,
+Is Critical Boundary=False
+Critical Boundary Flow=
+Boundary Location=                ,                ,        ,        ,                ,Baoli Basin     ,                ,outflow                         ,                                
+Friction Slope=0.01,0
+Boundary Location=                ,                ,        ,        ,                ,Baoli Basin     ,                ,zhushei                         ,                                
+Interval=1HOUR
+Flow Hydrograph= 49 
+row1zhushei
+row2zhushei
+row3zhushei
+row4zhushei
+row5zhushei
+Stage Hydrograph TW Check=0
+Flow Hydrograph Slope= 0.07 
+DSS Path=
+Use DSS=False
+Use Fixed Start Time=False
+Fixed Start Date/Time=,
+Is Critical Boundary=False
+Critical Boundary Flow=
+Boundary Location=                ,                ,        ,        ,                ,Baoli Basin     ,                ,baoli2                          ,                                
+Interval=1HOUR
+Flow Hydrograph= 49 
+row1baoli2
+row2baoli2
+row3baoli2
+row4baoli2
+row5baoli2
+Stage Hydrograph TW Check=0
+Flow Hydrograph Slope= 0.07 
+DSS Path=
+Use DSS=False
+Use Fixed Start Time=False
+Fixed Start Date/Time=,
+Is Critical Boundary=False
+Critical Boundary Flow=
+Boundary Location=                ,                ,        ,        ,                ,Baoli Basin     ,                ,baoli1                          ,                                
+Interval=1HOUR
+Flow Hydrograph= 49 
+row1baoli1
+row2baoli1
+row3baoli1
+row4baoli1
+row5baoli1
+Stage Hydrograph TW Check=0
+Flow Hydrograph Slope= 0.15 
+DSS Path=
+Use DSS=False
+Use Fixed Start Time=False
+Fixed Start Date/Time=,
+Is Critical Boundary=False
+Critical Boundary Flow=
+Boundary Location=                ,                ,        ,        ,                ,Baoli Basin     ,                ,houkei                          ,                                
+Interval=1HOUR
+Flow Hydrograph= 49 
+row1houkei
+row2houkei
+row3houkei
+row4houkei
+row5houkei
+Stage Hydrograph TW Check=0
+Flow Hydrograph Slope= 0.07 
+DSS Path=
+Use DSS=False
+Use Fixed Start Time=False
+Fixed Start Date/Time=,
+Is Critical Boundary=False
+Critical Boundary Flow=
+Met Point Raster Parameters=,,,,
+Precipitation Mode=Disable
+Wind Mode=No Wind Forces
+Air Density Mode=Specified
+Met BC=Precipitation|Expanded View=0
+Met BC=Precipitation|Point Interpolation=Nearest
+Met BC=Precipitation|Gridded Source=DSS
+Met BC=Evapotranspiration|Expanded View=0
+Met BC=Evapotranspiration|Point Interpolation=Nearest
+Met BC=Evapotranspiration|Gridded Source=DSS
+Met BC=Wind Speed|Expanded View=0
+Met BC=Wind Speed|Point Interpolation=Nearest
+Met BC=Wind Speed|Gridded Source=DSS
+Met BC=Wind Direction|Expanded View=0
+Met BC=Wind Direction|Point Interpolation=Nearest
+Met BC=Wind Direction|Gridded Source=DSS
+Met BC=Wind Velocity X|Expanded View=0
+Met BC=Wind Velocity X|Point Interpolation=Nearest
+Met BC=Wind Velocity X|Gridded Source=DSS
+Met BC=Wind Velocity Y|Expanded View=0
+Met BC=Wind Velocity Y|Point Interpolation=Nearest
+Met BC=Wind Velocity Y|Gridded Source=DSS
+Met BC=Air Density|Mode=Constant
+Met BC=Air Density|Expanded View=0
+Met BC=Air Density|Constant Value=1.225
+Met BC=Air Density|Constant Units=kg/m3
+Met BC=Air Density|Point Interpolation=Nearest
+Met BC=Air Density|Gridded Source=DSS
+Met BC=Air Temperature|Expanded View=0
+Met BC=Air Temperature|Point Interpolation=Nearest
+Met BC=Air Temperature|Gridded Source=DSS
+Met BC=Humidity|Expanded View=0
+Met BC=Humidity|Point Interpolation=Nearest
+Met BC=Humidity|Gridded Source=DSS
+Met BC=Air Pressure|Mode=Constant
+Met BC=Air Pressure|Expanded View=0
+Met BC=Air Pressure|Constant Value=1013.2
+Met BC=Air Pressure|Constant Units=mb
+Met BC=Air Pressure|Point Interpolation=Nearest
+Met BC=Air Pressure|Gridded Source=DSS
+Non-Newtonian Method= 0 ,             
+Non-Newtonian Constant Vol Conc=0
+Non-Newtonian Yield Method= 0 ,             
+Non-Newtonian Yield Coef=0, 0
+User Yeild=   0
+Non-Newtonian Sed Visc= 0 ,             
+Non-Newtonian Obrian B=0
+User Viscosity=0
+User Viscosity Ratio=0
+Herschel-Bulkley Coef=0, 0
+Clastic Method= 0 ,             
+Coulomb Phi=0
+Voellmy X=0
+Non-Newtonian Hindered FV= 0 
+Non-Newtonian FV K=0
+Non-Newtonian ds=0
+Non-Newtonian Max Cv=0
+Non-Newtonian Bulking Method= 0 , 
+Non-Newtonian High C Transport= 0 , 
+Lava Activation= 0 
+Temperature=1300,15,,15,14,980
+Heat Ballance=1,1200,0.5,1,70,0.95
+Viscosity=1000,,,
+Yield Strength=,,,
+Consistency Factor=,,,
+Profile Coefficient=4,1.3,
+Lava Param=,2500,
