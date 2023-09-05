@@ -5,7 +5,7 @@ This code provide reliability analysis of HEC-RAS 3D model.
 
 HEC-RAS model is not provided in this bundle but the connection code
 between Kriging reliability method and HEC-RAS model using MATLAB is
-provided
+provided. Original and Modified input file from HEC-RAS (ok.g03
 
 For Kriging model, Kriging algorithm used in this study is solely taken 
 from DACE toolbox Thanks to: Nielsen, H. B. (Author), Lophaven, S. N. 
